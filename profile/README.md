@@ -1,6 +1,6 @@
 # Radical Labs
 
-Redefining experiences through radical technology for people to unlock their full potential.
+Radical technology for people to unlock their full potential.
 
 ## Projects
 
